@@ -1,10 +1,18 @@
 plugins {
-    id "com.android.library"
-    id "org.jetbrains.kotlin.android"
-    id "kotlin-kapt"
+    id 'com.android.library'
+    id 'org.jetbrains.kotlin.android'
+    id 'com.google.dagger.hilt.android'
+    id 'kotlin-kapt'
+}
+
+tasks.withType(org.jetbrains.kotlin.gradle.tasks.KotlinCompile).configureEach {
+    kotlinOptions {
+        jvmTarget = "17"
+    }
 }
 
 android {
+    namespace "me.dio.copa.catar.local"
     compileSdk 32
 
     defaultConfig {
@@ -23,12 +31,12 @@ android {
     }
 
     compileOptions {
-        sourceCompatibility JavaVersion.VERSION_11
-        targetCompatibility JavaVersion.VERSION_11
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
     }
 
     kotlinOptions {
-        jvmTarget = JavaVersion.VERSION_11.toString()
+        jvmTarget = JavaVersion.VERSION_17.toString()
     }
 }
 
@@ -38,8 +46,8 @@ dependencies {
 
     implementation "androidx.datastore:datastore-preferences:1.0.0"
 
-    kapt "com.google.dagger:dagger-compiler:2.44"
-    implementation "com.google.dagger:dagger:2.44"
+    implementation "com.google.dagger:hilt-android:2.52"
+    kapt "com.google.dagger:hilt-android-compiler:2.52"
 
     testImplementation "junit:junit:4.13.2"
     androidTestImplementation "androidx.test.ext:junit:1.1.3"
