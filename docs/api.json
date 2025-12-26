@@ -17,7 +17,7 @@
     },
     "team1": "BR",
     "team2": "HT",
-    "date": "2026-06-20T01:00:00Z"
+    "date": "2026-06-20T00:00:00Z"
   },
   {
     "name": "3ª RODADA",
@@ -35,8 +35,8 @@
       "name": "ESTÁDIO AZTECA",
       "image": "https://domleondev.github.io/DIO-copa-2026-android/docs/statics/azteca-stadium.png"
     },
-    "team1": "TB",
-    "team2": "TB",
+    "team1": "TBD",
+    "team2": "TBD",
     "date": "2026-06-30T22:00:00Z"
   },
   {
@@ -45,8 +45,8 @@
       "name": "SOFI STADIUM",
       "image": "https://domleondev.github.io/DIO-copa-2026-android/docs/statics/sofi-stadium.png"
     },
-    "team1": "TB",
-    "team2": "TB",
+    "team1": "TBD",
+    "team2": "TBD",
     "date": "2026-07-05T22:00:00Z"
   },
   {
@@ -55,8 +55,8 @@
       "name": "MERCEDES-BENZ STADIUM",
       "image": "https://domleondev.github.io/DIO-copa-2026-android/docs/statics/mercedes-benz-stadium.png"
     },
-    "team1": "TB",
-    "team2": "TB",
+    "team1": "TBD",
+    "team2": "TBD",
     "date": "2026-07-10T22:00:00Z"
   },
   {
@@ -65,8 +65,8 @@
       "name": "AT&T STADIUM",
       "image": "https://domleondev.github.io/DIO-copa-2026-android/docs/statics/att-stadium.png"
     },
-    "team1": "TB",
-    "team2": "TB",
+    "team1": "TBD",
+    "team2": "TBD",
     "date": "2026-07-14T23:00:00Z"
   },
   {
@@ -75,8 +75,8 @@
       "name": "METLIFE STADIUM",
       "image": "https://domleondev.github.io/DIO-copa-2026-android/docs/statics/metlife-stadium.png"
     },
-    "team1": "TB",
-    "team2": "TB",
+    "team1": "TBD",
+    "team2": "TBD",
     "date": "2026-07-19T20:00:00Z"
   }
 ]
