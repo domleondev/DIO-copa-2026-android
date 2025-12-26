@@ -17,7 +17,7 @@
     },
     "team1": "BR",
     "team2": "HT",
-    "date": "2026-06-20T00:00:00Z"
+    "date": "2026-06-20T01:00:00Z"
   },
   {
     "name": "3ª RODADA",
@@ -25,7 +25,7 @@
       "name": "HARD ROCK STADIUM",
       "image": "https://domleondev.github.io/DIO-copa-2026-android/docs/statics/hard-rock-stadium.png"
     },
-    "team1": "SC",
+    "team1": "SCO",
     "team2": "BR",
     "date": "2026-06-24T22:00:00Z"
   },
