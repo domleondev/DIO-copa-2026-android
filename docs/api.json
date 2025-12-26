@@ -3,7 +3,7 @@
     "name": "1ª RODADA",
     "stadium": {
       "name": "METLIFE STADIUM",
-      "image": "https://domleondev.github.io/copa-2026-android/statics/metlife-stadium.png"
+      "image": "https://domleondev.github.io/DIO-copa-2026-android/statics/metlife-stadium.png"
     },
     "team1": "BR",
     "team2": "MA",
@@ -13,7 +13,7 @@
     "name": "2ª RODADA",
     "stadium": {
       "name": "LINCOLN FINANCIAL FIELD",
-      "image": "https://domleondev.github.io/copa-2026-android/statics/lincoln-field.jpg"
+      "image": "https://domleondev.github.io/DIO-copa-2026-android/statics/lincoln-field.jpg"
     },
     "team1": "BR",
     "team2": "HT",
@@ -23,7 +23,7 @@
     "name": "3ª RODADA",
     "stadium": {
       "name": "HARD ROCK STADIUM",
-      "image": "https://domleondev.github.io/copa-2026-android/statics/hard-rock-stadium.png"
+      "image": "https://domleondev.github.io/DIO-copa-2026-android/statics/hard-rock-stadium.png"
     },
     "team1": "SC",
     "team2": "BR",
@@ -33,7 +33,7 @@
     "name": "Semi Final",
     "stadium": {
       "name": "AT&T STADIUM",
-      "image": "https://domleondev.github.io/copa-2026-android/statics/att-stadium.png"
+      "image": "https://domleondev.github.io/DIO-copa-2026-android/statics/att-stadium.png"
     },
     "team1": "TBD",
     "team2": "TBD",
@@ -43,7 +43,7 @@
     "name": "FINAL",
     "stadium": {
       "name": "METLIFE STADIUM",
-      "image": "https://domleondev.github.io/copa-2026-android/statics/metlife-stadium.png"
+      "image": "https://domleondev.github.io/DIO-copa-2026-android/statics/metlife-stadium.png"
     },
     "team1": "TBD",
     "team2": "TBD",
