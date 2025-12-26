@@ -30,7 +30,37 @@
     "date": "2026-06-24T22:00:00Z"
   },
   {
-    "name": "Semi Final",
+    "name": "16 AVOS DE FINAL",
+    "stadium": {
+      "name": "ESTÁDIO AZTECA",
+      "image": "https://domleondev.github.io/DIO-copa-2026-android/docs/statics/azteca-stadium.png"
+    },
+    "team1": "TBD",
+    "team2": "TBD",
+    "date": "2026-06-30T22:00:00Z"
+  },
+  {
+    "name": "OITAVAS DE FINAL",
+    "stadium": {
+      "name": "SOFI STADIUM",
+      "image": "https://domleondev.github.io/DIO-copa-2026-android/docs/statics/sofi-stadium.png"
+    },
+    "team1": "TBD",
+    "team2": "TBD",
+    "date": "2026-07-05T22:00:00Z"
+  },
+  {
+    "name": "QUARTAS DE FINAL",
+    "stadium": {
+      "name": "MERCEDES-BENZ STADIUM",
+      "image": "https://domleondev.github.io/DIO-copa-2026-android/docs/statics/mercedes-benz-stadium.png"
+    },
+    "team1": "TBD",
+    "team2": "TBD",
+    "date": "2026-07-10T22:00:00Z"
+  },
+  {
+    "name": "SEMI FINAL",
     "stadium": {
       "name": "AT&T STADIUM",
       "image": "https://domleondev.github.io/DIO-copa-2026-android/docs/statics/att-stadium.png"
